@@ -24,10 +24,10 @@ git clone <https://github.com/22rahulrai/FileHandling>
 # Switch to a specific branch
 git checkout file-class
 ```
-#Contribution
+## Contribution
 Feel free to contribute by adding more examples or improving existing code.
 
-#License
+## License
 This project is licensed under the MIT License.
 
 Copy and paste this into your `README.md` file. Let me know if you need any modifications! 🚀
